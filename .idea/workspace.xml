@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24407040-3fd1-4f0d-b148-94e494fb130d" name="Default Changelist" comment="" />
+    <list default="true" id="24407040-3fd1-4f0d-b148-94e494fb130d" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/assets/img/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +33,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -41,13 +45,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Вика\WebstormProjects\Netflix page\assets\img" />
       <recent name="C:\Users\Вика\WebstormProjects\Netflix page\assets\css" />
       <recent name="C:\Users\Вика\WebstormProjects\Netflix page\assets" />
       <recent name="C:\Users\Вика\WebstormProjects\Netflix page\img" />
       <recent name="C:\Users\Вика\WebstormProjects\Netflix page\js" />
-      <recent name="C:\Users\Вика\WebstormProjects\Netflix page\fonts\Helvetica" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Вика\WebstormProjects\Netflix page\assets\img" />
       <recent name="C:\Users\Вика\WebstormProjects\Netflix page\img" />
     </key>
   </component>
@@ -62,18 +67,42 @@
       <workItem from="1601822884228" duration="8695000" />
       <workItem from="1602140774649" duration="12529000" />
       <workItem from="1602177942552" duration="6564000" />
-      <workItem from="1602225967564" duration="564000" />
+      <workItem from="1602225967564" duration="1350000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1602226588953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602226588953</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601832680543">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601832680543" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1602226523438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602226523437" />
+    <state x="641" y="310" key="Github.ShareDialog" timestamp="1602226665389">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="641" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1602226665389" />
+    <state x="361" y="145" width="812" height="533" key="Vcs.Push.Dialog.v2" timestamp="1602226681112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" width="812" height="533" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602226681112" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1601825908863">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
